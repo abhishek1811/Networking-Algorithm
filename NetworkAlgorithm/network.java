@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package NetworkAlgorithm;
 
 import java.io.File;
